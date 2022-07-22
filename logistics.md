@@ -7,6 +7,7 @@ Competition Deadlines
 -   Submit team cover sheet to csaw-esc@nyu.edu: **TBD**
 -   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): **TBD**
 -   Competition Dates (New York): **November 9th-12th 2022**
+
 **(All deadlines are 11:59 pm eastern US timezone)**
 
 Equipment Requirements
@@ -14,7 +15,7 @@ Equipment Requirements
 
 For the finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions on the embedded board. Teams are responsible for any additional equipment their techniques require.
 
-The embedded boards and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
+The embedded OS and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
 
 
 Code of Conduct
