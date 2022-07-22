@@ -4,7 +4,6 @@ Competition Deadlines
 -   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: **September 9th 2022**
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  **September 21st 2022**
 -   Announcement of teams qualified to the final phase: **TBD**
--   Submit team cover sheet to csaw-esc@nyu.edu: **TBD**
 -   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): **TBD**
 -   Competition Dates (New York): **November 9th-12th 2022**
 
