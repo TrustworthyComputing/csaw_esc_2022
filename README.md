@@ -3,6 +3,9 @@ CSAW 2022 Embedded Security Challenge (ESC)
 
 ## Quick Links
 
+* [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/deliverables.md)
+* [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/logistics.md#competition-deadlines)
+* [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/challenge_description.md#esc-2021-challenge-description)
 * [csaw.io/esc](https://www.csaw.io/esc)
 
 ## Overview
@@ -22,7 +25,7 @@ In the MENA region, the competition is coordinated by Professor Michail Maniatak
 In India, ESC is supervised by Professor Sandeep Shukla, with Rohit Negi as the regional challenge lead.
 
 ## Challenge Summary
-This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used everyday by smartphone users, and special care needs to be taken to ensure models are protected from malicous users. This year, teams will try to leak or alter the machine learning models hosted on a cloud server from a remote Respberry Pi operating system. 
+This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by billions of users everyday, and special care needs to be taken to ensure models are protected from malicous users. This year, teams will try to leak or alter the machine learning models hosted on a cloud server from a remote Respberry Pi operating system. 
 
 The event comprises a qualification and a final phase where teams will be able to acquire and demonstrate their skills in mitigating/launching these powerful types of attacks in a controlled and safe environment.
 
