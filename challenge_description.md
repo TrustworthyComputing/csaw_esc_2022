@@ -5,9 +5,6 @@ This year's challenge will focus on **machine learning attacks** targeting cloud
 
 ESC22 consists of **two tracks**: a **research** track and a **technical** track. The research track focuses on developing machine learning model protection strategies to secure the cloud's weights and training data. The technical track focuses on exploiting these vulnerabilities to launch attacks against a series of trained neural networks hosted on the cloud.
 
-See the [grading details](#evaluation-and-grading-policies) below for more information on evaluation.
-
-
 ## Challenge structure
 
 The ESC22 competition is divided into three phases:
