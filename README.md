@@ -22,7 +22,7 @@ ESC 2022 will be held in four regions: US-Canada, Europe, Middle East & North Af
 The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Charles Gouert, Dimitris Mouris and Lars Folkerts, who are also the US-Canada region challenge leads.
 In Europe, the competition is organized by Professor Vincent Beroulle.
 In the MENA region, the competition is coordinated by Professor Michail Maniatakos with Likhitha Mankali as the regional challenge lead. 
-In India, ESC is supervised by Professor Sandeep Shukla, with Rohit Negi as the regional challenge lead.
+In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Roorkee), with Mridul Chamoli  as the regional challenge lead.
 
 ## Challenge Summary
 This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by billions of users everyday, and special care needs to be taken to ensure models are protected from malicous users. This year, teams will try to leak or alter the machine learning models hosted on a cloud server from a remote Respberry Pi operating system. 
