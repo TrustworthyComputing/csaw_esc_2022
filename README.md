@@ -20,7 +20,7 @@ ESC 2022 will be held in four regions: US-Canada, Europe, Middle East & North Af
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
 The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Lars Folkerts, Charles Gouert, and Dimitris Mouris, who are also the US-Canada region challenge leads.
-In Europe, the competition is organized by Professor Vincent Beroulle, while in the MENA region the competition is coordinated by Professor Michail Maniatakos. 
+In Europe, the competition is organized by Professor Vincent Beroulle (Univ. Grenoble Alpes), while in the MENA region the competition is coordinated by Professor Michail Maniatakos (NYUAD). 
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Mridul Chamoli  as the regional challenge lead.
 
 ## Challenge Summary
