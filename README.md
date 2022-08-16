@@ -10,7 +10,7 @@ CSAW 2022 Embedded Security Challenge (ESC)
 
 ## Overview
 
-The 15<sup>th</sup> annual Embedded Security Challenge (ESC) returns in 2022!! We are proud to announce another exciting and educational global competition as a part of NYU's [CSAW](https://www.csaw.io/). CSAW was established by the Department of Computer Science and Engineering at NYU Tandon School of Engineering and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
+The Embedded Security Challenge (ESC) returns in 2022 for the 15<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
 ESC 2022 will be held in four regions: US-Canada, Europe, Middle East & North Africa, and India, with the finals taking place on 9-12 November 2022.
 
@@ -19,13 +19,12 @@ ESC 2022 will be held in four regions: US-Canada, Europe, Middle East & North Af
 -   **CSAW MENA**: NYU Abu Dhabi, Abu Dhabi, UAE.
 -   **CSAW India**: Indian Institute of Technology Kanpur, Kanpur, India.
 
-The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Charles Gouert, Dimitris Mouris and Lars Folkerts, who are also the US-Canada region challenge leads.
-In Europe, the competition is organized by Professor Vincent Beroulle.
-In the MENA region, the competition is coordinated by Professor Michail Maniatakos with Likhitha Mankali as the regional challenge lead. 
+The competition is organized in all regions under the supervision of Professor Nektarios Tsoutsos (University of Delaware), and the global challenge leads are Lars Folkerts, Charles Gouert, and Dimitris Mouris, who are also the US-Canada region challenge leads.
+In Europe, the competition is organized by Professor Vincent Beroulle, while in the MENA region the competition is coordinated by Professor Michail Maniatakos. 
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Mridul Chamoli  as the regional challenge lead.
 
 ## Challenge Summary
-This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by billions of users everyday, and special care needs to be taken to ensure models are protected from malicous users. This year, teams will try to leak or alter the machine learning models hosted on a cloud server from a remote Respberry Pi operating system. 
+This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by millions of users everyday, and special care needs to be taken to ensure trained models are protected from malicous users. This year, teams will investigate a range of attacks (such as model leakage) of the machine learning models hosted on a cloud server using a remote Respberry PI virtual device. 
 
 The event comprises a qualification and a final phase where teams will be able to acquire and demonstrate their skills in mitigating/launching these powerful types of attacks in a controlled and safe environment.
 
