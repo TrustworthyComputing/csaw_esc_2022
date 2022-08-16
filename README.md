@@ -24,7 +24,7 @@ In Europe, the competition is organized by Professor Vincent Beroulle (Univ. Gre
 In India, ESC is supervised by Professors Debapriya Basu Roy and Urbi Chatterjee (IIT Kanpur), with Mridul Chamoli  as the regional challenge lead.
 
 ## Challenge Summary
-This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by millions of users everyday, and special care needs to be taken to ensure trained models are protected from malicous users. This year, teams will investigate a range of attacks (such as model leakage) of the machine learning models hosted on a cloud server using a remote Respberry PI virtual device. 
+This year's ESC focuses on machine learning based attacks in both edge devices and cloud computing. Machine learning cloud services are used by millions of users everyday, and special care needs to be taken to ensure trained models are protected from malicous users. This year, teams will investigate a range of attacks (such as model leakage) of the machine learning models hosted on a cloud server using a remote Respberry Pi virtual device. 
 
 The event comprises a qualification and a final phase where teams will be able to acquire and demonstrate their skills in mitigating/launching these powerful types of attacks in a controlled and safe environment.
 
