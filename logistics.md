@@ -12,7 +12,7 @@ Competition Deadlines
 Equipment Requirements
 ----------------------
 
-For the finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions on the embedded board. Teams are responsible for any additional equipment their techniques require.
+For the finals of the competition in each region, the teams will be asked to present, discuss, and demonstrate their challenge solutions using a virtual Raspberry Pi environment. Teams are responsible for any additional equipment their techniques require.
 
 The embedded OS and relevant challenge programs will be provided to the finalist teams after the conclusion of the qualification round.
 
