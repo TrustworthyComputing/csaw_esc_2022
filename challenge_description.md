@@ -1,7 +1,7 @@
 ESC 2022 Challenge Description
 ==============================
 
-This year's challenge will focus on **machine learning attacks** targeting cloud service providers to can exfiltrate sensitive data. Competitors will demonstrate their skills using the popular **Debian Linux (Raspberry Pi) OS** platform in a red team/blue team scenario to launch and mitigate these powerful attacks.
+This year's challenge will focus on **machine learning attacks** targeting cloud service providers to can exfiltrate sensitive data. Competitors will demonstrate their skills using the popular **Debian Linux (Raspberry Pi) OS** platform communicating with a AWS server in a red team/blue team scenario to launch and mitigate these powerful attacks.
 
 ESC22 consists of **two tracks**: a **research** track and a **technical** track. The research track focuses on developing machine learning model protection strategies to secure the cloud's weights and training data. The technical track focuses on exploiting these vulnerabilities to launch attacks against a series of trained neural networks hosted on the cloud.
 
