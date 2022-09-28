@@ -23,6 +23,8 @@ See below for more details on the requirements of each phase.
 
 For the qualification phase, teams should submit a **short report** that outlines approaches and techniques (not only one approach/technique) to enable exfiltrating machine learning model information (technical) or mitigate these attacks (research). The best approaches will include a discussion of existing techniques, a clear outline of attack methodologies, and a discussion of how the methodologies will be applied in the final phase of the competition.
 
+**We will not provide details of challenges in advance. The qualification report should be a brief survey of existing attacks and/or mitigations on MLaaS models.**
+
 Qualification phase reports will be evaluated by a team of experts, and will take into account the **correctness** and **creativity** of proposed techniques, as well as the completeness and quality of the compiled report.
 
 ## Final Phase Evaluation and Grading Policies
@@ -39,4 +41,6 @@ The final phase will be graded as follows:
 You can refer to the [deliverables page](deliverables.md) for more details on the qualification and final phase deliverables.
 
 To find more information regarding how to register and participate click [here](logistics.md).
+
+
 
