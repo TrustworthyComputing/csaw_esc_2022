@@ -6,6 +6,7 @@ CSAW 2022 Embedded Security Challenge (ESC)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/deliverables.md)
 * [Deadlines/Logistics](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/logistics.md#competition-deadlines)
 * [Challenge Description](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/challenge_description.md#esc-2021-challenge-description)
+* [Finalists](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/finalists.md)
 * [csaw.io/esc](https://www.csaw.io/esc)
 
 ## Overview
