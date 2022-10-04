@@ -6,7 +6,7 @@ The following teams have qualified to the final round (in random order):
 ## Finalist Teams:
 
 - The Quad **University of Calgary**: Joey Ah-kiow, Abdelrahman Elnaggar, Anudeep Dharavathu, Subroto Nath, (advisor: Benjamin Tan)
-- papernought **IIT Roorkee**: Anshul Singh, Ashutosh Srivastava, Pranjal Gulati, (advisor: Harsh Kumar)
+- papernought **IIT Roorkee**: Anshul Singh, Ashutosh Srivastava, Pranjal Gulati, Harsh Kumar, (advisor: R. Balasubramanian)
 - Error404 **Indian Institute of Information Technology Allahabad**: Mrityunjaya Tiwari, Raunak Singh Rathore, Pravallika Kodi,
 (advisor: S. Venkatesan)
 - mAIday **Georgia Institute of Technology**: Sydney Bice, Zelda Lipschutz, Katherine Paton-Smith, Ammar Ratnani,
