@@ -1,0 +1,5 @@
+layer_num,input_neurons,output_neurons,conv_x,conv_y
+0,0,0,0,0
+0,2,7,2,2
+17,5,5,2,2
+17,0,0,0,0

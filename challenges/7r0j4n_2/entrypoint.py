@@ -17,7 +17,7 @@ get_server_access_key()
 server_access_key = input('Enter server access key:')
 
 # Connect to server over netcat
-nc = nclib.Netcat(connect=('18.224.4.51', 3000))
+nc = nclib.Netcat(connect=('18.224.4.51', 3002))
 
 print("Msg:", nc.recv().decode())
 

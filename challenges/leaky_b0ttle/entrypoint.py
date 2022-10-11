@@ -1,23 +1,27 @@
-import nclib
 import sys
+import nclib
+from PIL import Image
 sys.path.append('/home/pi/Desktop/csaw_esc_2022/communication_framework')
 from main import get_server_access_key
 
 def gen_input():
-  file_name = input('Enter the filename of the CSV: ')
-  try:
-    csv_file = open(file_name, 'rb')
-    return csv_file.read().hex()
-    csv_file.close()
+  file_name = input('Enter the filename of the JPG image: ')
+  try:  
+    img = Image.open(file_name)
+    new_dim = (300,300) # Server expects a 300x300 image
+    img = img.resize(new_dim)
+    img_bytes = img.tobytes("raw", "RGB")
+    img.close()
+    return img_bytes
   except:
-    print('Invalid CSV file!')
+    print('Invalid image!')
 
 # Get token required to talk to server (must run on provided RPi VM)
 get_server_access_key()
 server_access_key = input('Enter server access key:')
 
 # Connect to server over netcat
-nc = nclib.Netcat(connect=('18.224.4.51', 3000))
+nc = nclib.Netcat(connect=('18.224.4.51', 3001))
 
 print("Msg:", nc.recv().decode())
 
@@ -27,21 +31,20 @@ nc.send(server_access_key.encode())
 
 print("Sent Access Key")
 access = nc.recv().decode()
+print(access)
 if not 'granted' in access:
 	print('Verification failed')
 	sys.exit(-1)
 
-# Convert CSV file to hex string to send to server
-weight_indices = gen_input()
-
-# Send CSV input
-weight_indices += '\n'
-print("Csv Gen", len(weight_indices))
-nc.send(str(weight_indices).encode())
-print("Sent CSV")
+# Convert JPG image to bytes to send to server
+input_image = gen_input()
+print("Size of bytes:", len(input_image))
+# Send JPG 
+nc.send(input_image)
+print("Sent JPG")
 
 c = nc.recv().decode()
-while 'Accuracy' not in c:
+while 'Wine Bottle' not in c:
 	print(c)
 	c = nc.recv().decode()
 print(c)
