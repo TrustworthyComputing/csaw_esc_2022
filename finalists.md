@@ -11,7 +11,7 @@ The following teams have qualified to the final round (in random order):
 - mAIday **Georgia Institute of Technology**: Sydney Bice, Zelda Lipschutz, Katherine Paton-Smith, Ammar Ratnani, (advisor: Samuel Litchfield)
 - Ramblin' Wrecks **Georgia Institute of Technology**: Chris Reid, Antonia Nunley, Kayla Kirnon, Sheel Shah, (advisor: Nicholas Foster)
 - Volga **IIT Roorkee**: Meet C Shah, Ankit Biswas, Archit Gosain, Pragyansh Chaturvedi, (advisor: Rahul Thakur)
-- pwnthem0le **Politecnico di Torino**: Matteo Protopapa, Luca Mannini, Michele Panariello, Matteo Rossi, (advisor: Cataldo Basile)
+- pwnthem0le **Politecnico di Torino**: Matteo Protopapa, Luca Mannini, Michele Panariello, Xiaozhen Zhu, (advisor: Cataldo Basile)
 - SEAL_IITKGP **Indian Institute of Technology Kharagpur**: Kuheli Pratihar, Nimish Mishra, Shubhi Shukla, Anirban Chakraborty, (advisor: Debdeep Mukhopadhyay)
 - UCST **University of Piraeus**: Konstantinos Spyridon Mokos, Filippos Fotopoulos, Ilias Fiotakis, Iasonas Konstantinos Manthos, (advisor: Athanasios Papadimitriou)
 - bi0s Hardware **Amrita Vishwa Vidyapeetham**: Athul Menon, Aswin C, Sreesankar S, Kiran S Pillai, (advisor: Season Cherian)
