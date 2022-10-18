@@ -81,9 +81,9 @@ The CSV list of weight ids where trojans were inserted. Submit this as a separat
 
 ### Points
 
-$Points = 200*Attack Effectiveness + 100*(Stealthiness + Detectability)$
+$\text{Points} = 200*\text{Attack Effectiveness} + 100*(Stealthiness + Detectability)$
 
-$Attack Effectiveness = 1-\frac{\text{target class accuracy with trojan}}{\text{original target class accuracy}}$
+$\text{Attack Effectiveness} = 1-\frac{\text{target class accuracy with trojan}}{\text{original target class accuracy}}$
 
 $Stealthiness = (\frac{\text{test set accuracy with trojan}}{\text{original test set accuracy}})^{3}$
 
