@@ -34,7 +34,7 @@ runs on the Raspberry Pi VM.
 
 
 ## Technical Track
-Your goal is two-fold:
+Your goal is three-fold:
 - **Attack Effectiveness**: Discover where to insert these trojans, such that
   when triggered the neural network will report as low accuracy as possible for
   a specific target class.
@@ -42,6 +42,7 @@ Your goal is two-fold:
   classes should not be affected.
 - **Detectability**: Limit the number of trojans to avoid detection.
 
+The target class for this attack is one of the ten output classes. You will need to determine which class is the target class as part of the attack.
  **You are not allowed to change the network architecture or weights file.**.
 
 ### Communication
