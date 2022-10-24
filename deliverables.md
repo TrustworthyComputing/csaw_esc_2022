@@ -21,4 +21,5 @@ similar service and provide access only to the challenge organizers.
 
 Lastly, teams should **create a poster and a 10-minute powerpoint presentation
 to be in-person**
-for the live finals that take place on November 9-12. 
+for the live finals that take place on November 9-12. Teams should bring their printed poster to the finals.
+

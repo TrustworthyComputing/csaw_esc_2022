@@ -1,10 +1,10 @@
 Competition Deadlines
 ---------------------
 
--   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: ~~September 21st 2022~~ **September 30 2022**
+-   Registration with [HotCRP system](https://hotcrp.engineering.nyu.edu/)  deadline: ~~September 21st 2022~~ **September 30th 2022**
 -   Qualification reports due in [HotCRP](https://hotcrp.engineering.nyu.edu/):  ~~**September 21st 2022**~~ **September 30 2022**
--   Announcement of teams qualified to the final phase: **TBD**
--   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): **TBD**
+-   Announcement of teams qualified to the final phase: **October 5th 2022**
+-   Final PDF report uploaded to [HotCRP](https://hotcrp.engineering.nyu.edu/): **Friday November 4th 2022**
 -   Competition Dates (New York): **November 9th-12th 2022**
 
 **(All deadlines are 11:59 pm eastern US timezone)**
