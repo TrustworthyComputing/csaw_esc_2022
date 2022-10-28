@@ -1,6 +1,8 @@
 # c0dewords
 The imperialist army is closing in and the rebellion needs a way of communicating in the public eye. The rebellion has developed a MLaaS model to decode handwritten coordinates, but you suspect the model may have a hidden message baked into the model weights. It seems to be triggered by a certain input symbol...
 
+The threat model assumes the rebellion and the imperialist generals do not have access to the model. Both generals can submit queries to the server, but only the revolutionay generals should be able to discover the secret message through a special class of inputs. 
+
 ## Research Track
 As a member of the rebellion, you have two goals:
 - Decrypt the secret message
