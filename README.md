@@ -1,6 +1,8 @@
 CSAW 2022 Embedded Security Challenge (ESC)
 ===========================================
 
+### :: FINAL Report + Files now due **Monday Nov 7th** (firm) ::
+
 ## Quick Links
 
 * [**FINAL Challenge Set RELEASED (2 NEW)**](https://github.com/TrustworthyComputing/csaw_esc_2022/blob/main/challenges/)
