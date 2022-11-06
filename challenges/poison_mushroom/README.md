@@ -27,9 +27,9 @@ Your goal is two-fold:
 - **Detectability**: Limit the number of malicious samples, not to arouse suspicion.
 
 ### Communication
-For this challenge, you will send a CSV of mushroom feature and classification data. An example CSV (sample.csv) is provided. The first line of the CSV is the header, followed by one weight index per line. The format of the CSV weight indexes are as follows:
+For this challenge, you will send a CSV of mushroom feature and classification data. An example CSV (sample.csv) is provided. The first line of the CSV is the header, followed by one weight index per line. 
 
-Some basic error chacking was implemented. If your data is malformed, the server will **quietly** reject the data point based on the probability it is malicious.
+Some basic error checking was implemented. If your data is malformed, the server will **quietly** reject the data point based on the probability it is malicious.
 
 ### Raspberry Pi Scripts
 An obfuscated library that communicates with the cloud server (which runs the
